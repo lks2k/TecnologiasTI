@@ -1,2 +1,3 @@
 # TecnologiasTI
-Repositório da matéria de Tecnologias em TI do curso de Sistemas de Informação oferecido pela PUC-Campinas
+Repositório da matéria de Tecnologias em TI da PUC-Campinas
+Curso de Sistema de Informações
